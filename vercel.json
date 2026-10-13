@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "https://ecomtoolsupport.duckdns.org/$1" }
+  ]
+}
